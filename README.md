@@ -9,11 +9,11 @@
 <br /> 
 <!--Start Intro-->               
 <!--Start Intro-->               
-<p align="left">Hello! I am an introverted, active, and responsible person. As a programmer, I have experience with Node.js, NestJS, Express, Sequelize, TypeScript, and JavaScript. I am passionate about continuous learning and always strive to improve my knowledge and skills. I appreciate well-done work and make an effort to stay updated with the latest technologies and best practices in web development.</p>
+<p align="left">Hi! I am an introvert, active and responsible person. As a programmer, I have experience with Node.js, NestJS, Express, Sequelize, TypeScript and JavaScript. I am passionate about continuous learning and always strive to improve my knowledge and skills. I appreciate a job well done and strive to stay up to date with the latest technologies and best practices in web development.</p>
 
-- ✨ Student of life :)
-- 🌱 Currently, I am learning more, and I believe that each day is an opportunity for learning.
-- 💁‍♂️ I volunteer in the **No country community**.
+- ✨I keep updated on Technologies of my interest :)
+- 🌱 I am currently learning more and I believe that every day is an opportunity to learn.
+- 💁‍♂️ I volunteer in the No country community.**
 - 💻 Visit my [Portfolio](https://gabriel-mancilla.vercel.app/) for more details about me.
 <!--End Intro-->
 
@@ -41,7 +41,8 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
+    <summary><h2 style="display: inline-block">Connect With Me🤝</h2>
+</summary>
   </ul>
 </div>
 
